@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">大疆Demo</string>
+    <string name="action_settings">Settings</string>   
+    <string name="disconnected">未连接</string>
+    <string name="product_information">产品信息</string>
+    <string name="connection_loose">状态: 未连接</string>
+
+</resources>
